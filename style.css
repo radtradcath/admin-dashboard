@@ -1,5 +1,5 @@
 :root {
-    --blue-theme: #38bdf8;
+    --blue-theme: #e7692f;
     --grey-theme: #e5e5e5;
 }
 
@@ -160,7 +160,7 @@ label img {
 
 .card {
     background-color: white;
-    border-left: 7px solid orange;
+    border-left: 7px solid rgb(247, 83, 7);
     border-radius: 10px;
     margin: 0;
     padding: 40px 30px;
